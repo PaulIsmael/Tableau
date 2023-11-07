@@ -3,7 +3,14 @@
 
 # Tableau Project Summary
 
-Welcome to my Tableau project! This GitHub repository showcases my work with British Employment data, where I used Excel for data cleaning and transformation, and Tableau for creating an interactive dashboard.
+Objective: The primary objective of this project is to explore and analyze the British Employment dataset, shedding light on various aspects of employment in the UK over time.
+
+Data Source: The dataset used in this project was obtained from Tableau Public, providing a rich and comprehensive source of employment-related information.
+
+Tools Used:
+
+Microsoft Excel: Excel was used for data cleaning, preprocessing, and initial exploration.
+Tableau: Tableau was employed for in-depth data visualization and analysis, enabling us to create interactive dashboards.
 
 ## About the Dataset
 
