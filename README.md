@@ -19,12 +19,4 @@ The dataset used in this project focuses on British Employment data. It contains
 <img width="1294" alt="Screenshot 2023-11-06 at 16 03 08" src="https://github.com/PaulIsmael/Tableau/assets/150025834/445cb525-35b7-4a37-98bc-5f51ff39f7d8">
 
 
-
-## How to Use
-
-To explore the insights and visualizations:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
+[Visit my Dashboard on Tableau](https://public.tableau.com/app/profile/paul.ismael/viz/BritishEmploymentDashboard/Dashboard1)
