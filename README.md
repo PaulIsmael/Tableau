@@ -23,6 +23,14 @@ The dataset used in this project focuses on British Employment data. It contains
 
 - **Data Visualizations**: The heart of this project is the Tableau dashboard. It presents the cleaned and transformed data in an interactive and visually appealing manner, making it easier to explore employment trends and statistics.
 
+- **Data:** This folder contains the raw and cleaned data files used in the analysis.
+  
+- **Code:** The code used for data preprocessing, analysis, and visualization is available here.
+ 
+- **Documentation:** The documentation provides detailed explanations of the data analysis process and the insights gained from the project.
+Visualizations: Interactive Tableau visualizations are shared in this section.
+
+
 <img width="1294" alt="Screenshot 2023-11-06 at 16 03 08" src="https://github.com/PaulIsmael/Tableau/assets/150025834/445cb525-35b7-4a37-98bc-5f51ff39f7d8">
 
 
