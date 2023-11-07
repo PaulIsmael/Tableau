@@ -7,8 +7,7 @@ Welcome to my Tableau project! This GitHub repository showcases my work with Bri
 
 ## About the Dataset
 
-The dataset used in this project focuses on British Employment data. It contains valuable information about employment trends and statistics in the United Kingdom. 
-
+The dataset used in this project focuses on British Employment data. It contains valuable information about employment trends and statistics in the United Kingdom. This project is dedicated to examining changes in employment patterns and trends in the United Kingdom. Our goal is to provide valuable insights into the dynamics of the British job market by analyzing historical employment data, identifying key factors influencing these changes, and visualizing our findings.
 ## Key Aspects
 
 - **Data Cleaning and Transformation**: In the initial phase of the project, I thoroughly cleaned and transformed the raw data using Excel. This process involved addressing missing values, handling outliers, and structuring the data for analysis.
